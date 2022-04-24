@@ -1,7 +1,7 @@
 - 👋 Hi, I’m https://coinraaj.com/
 - 👀 I’m interested in Blockchain Technology, Cryptocurrency, Meme coins
 - 🌱 I’m currently learning Management and building community
-- 💞️ I’m looking to collaborate on somthing useful to boost my website https://coinraaj.com/
+- 💞️ I’m looking to collaborate on somthing useful to boost the website https://coinraaj.com/
 - 📫 How to reach me info@coinraaj.com
 
 <!---
